@@ -41,7 +41,7 @@
 
 ## 📫 How to reach me:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/hamzaaityoussef/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hamza-ait-youssef-76164526a/)  
 - 🐙 [GitHub](https://github.com/hamzaaityoussef)  
 - 📧 Email: hamzaaityoussef@gmail.com
 
