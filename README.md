@@ -24,10 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hamzaaityoussef&show_icons=true&theme=github_dark" alt="Hamza's GitHub stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaaityoussef&layout=compact&theme=github_dark"/>
-</p>
-
 ---
 
 ## 🔥 Projects Highlights
@@ -43,9 +39,8 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hamza-ait-youssef-76164526a/)  
 - 🐙 [GitHub](https://github.com/hamzaaityoussef)  
-- 📧 Email: hamzaaityoussef@gmail.com
+- 📧 Email: hamzaaityoussef50@gmail.com
 
 ---
 
-## 🎯 Motto:
 > “Stay curious, keep building, never stop learning.”
