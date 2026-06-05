@@ -16,9 +16,10 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://seeklogo.com/images/B/boomi-logo-1E8E37E6F1-seeklogo.com.png" width="40" height="40" style="display:inline-block; margin:6px;" />
-  <img src="https://seeklogo.com/images/S/snowflake-logo-3C8CE6F9B9-seeklogo.com.png" width="40" height="40" style="display:inline-block; margin:6px;" />
-  <img src="https://seeklogo.com/images/S/solace-logo-1B9C8EBA3A-seeklogo.com.png" width="40" height="40" style="display:inline-block; margin:6px;" />
+ 
+  <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos/logos/snowflake-icon.svg" width="40" height="40" style="display:inline-block; margin:6px;" />
+   <img src="https://imgs.search.brave.com/WEj7sxd8A8QMZwnnwcamKqU96tLSLHNRBhhRlko9t68/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8yZmFz/dmcuZ2l0aHViLmlv/L2Fzc2V0cy9pbWcv/bG9nby9ib29taS5j/b20vYm9vbWkuY29t/LnN2Zw" width="40" height="40" style="display:inline-block; margin:6px;" />
+  <img src="https://raw.githubusercontent.com/SolaceLabs/solace-agent-mesh/main/client/webui/frontend/src/assets/solace-logo-full.svg" width="40" height="40" style="display:inline-block; margin:6px;" />
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" style="display:inline-block; margin:6px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" style="display:inline-block;margin:5px;" />
   <img src="https://www.chartjs.org/media/logo-title.svg" width="40" style="display:inline-block;margin:5px;" />
@@ -47,7 +48,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" style="display:inline-block;margin:5px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" style="display:inline-block;margin:5px;" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" style="display:inline-block;margin:5px;" />
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40" style="display:inline-block;margin:5px;" />
+  
   <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="40" style="display:inline-block;margin:5px;" />
 </p>
 
