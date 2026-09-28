@@ -1,12 +1,15 @@
 <!-- refresh -->
 # 👋 Hi, I'm Hamza Ait Youssef
 
-🚀 **AI & Data Science Student | Software Developer | Data Engineer**
+🚀 **Data Engineer | AI & Data Science Engineer**
 
-- 🎯 Passionate about AI, Data Engineering, and Software Development
-- 🧠 Working with Python, Django, Machine Learning, Data Pipelines, and Cloud
-- 🔭 Currently working on scalable applications with Django, Redis, and Selenium
-- 📚 Always learning about Big Data, MLOps, and Cloud Infrastructure
+I design and build reliable data pipelines and scalable data platforms that turn raw data into value for analytics and machine learning.
+
+- 🎯 **Focus:** Data engineering, real-time & batch pipelines, and data platforms
+- 🎓 **Background:** Engineering degree in AI & Data Science
+- 🧰 **Working with:** Python, SQL, Snowflake, dbt, airflow, Kafka, Spark, Hadoop, Docker, Kubernetes, Cloud (AWS / GCP)
+- 🔭 **Currently:** Building scalable data pipelines and applications (Django, Redis, Selenium)
+- 📚 **Learning:** Data modeling, orchestration, MLOps, and cloud data infrastructure
 
 ---
 
@@ -76,7 +79,7 @@
 
 ## 📫 How to reach me:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/hamza-ait-youssef-76164526a/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hamzaaityoussef/)
 - 🌐 [Portfolio Website](https://hamza-ait-youssef.netlify.app/)
 - 🐙 [GitHub](https://github.com/hamzaaityoussef)  
 - 📧 Email: hamzaaityoussef50@gmail.com
